@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Respect RP S2 | ريسبكت</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700;900&display=swap" rel="stylesheet">
+
+<style>
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Cairo', sans-serif;
+}
+
+body {
+    background: #0b0614;
+    color: #fff;
+}
+
+header {
+    background: linear-gradient(135deg, #6a0dad, #2b003f);
+    padding: 50px 20px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2.3em;
+    color: #d7a6ff;
+}
+
+header p {
+    margin-top: 10px;
+    font-size: 1.1em;
+    opacity: 0.9;
+}
+
+section {
+    padding: 40px 20px;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 25px;
+    font-size: 1.6em;
+    color: #c77dff;
+}
+
+.box {
+    background: #14081f;
+    border: 1px solid #6a0dad;
+    border-radius: 15px;
+    padding: 25px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 20px rgba(106,13,173,0.4);
+}
+
+.box p {
+    line-height: 1.9;
+    font-size: 1.05em;
+}
+
+.buttons a {
+    display: block;
+    text-decoration: none;
+    background: linear-gradient(135deg, #7b2cbf, #5a189a);
+    color: white;
+    padding: 15px;
+    border-radius: 12px;
+    text-align: center;
+    margin: 15px 0;
+    font-size: 1.1em;
+    transition: 0.3s;
+}
+
+.buttons a:hover {
+    transform: scale(1.03);
+    box-shadow: 0 0 15px #9d4edd;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #09020f;
+    color: #aaa;
+    font-size: 0.9em;
+}
+
+@media (min-width: 768px) {
+    header h1 {
+        font-size: 3em;
+    }
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>Respect RP S2</h1>
+    <p>ريسبكت — حيث يولد الاحترام وتُصنع القصص</p>
+</header>
+
+<section>
+    <div class="title">من نحن</div>
+    <div class="box">
+        <p>
+        مرحبًا بك في سيرفر <b>Respect RP S2</b> — ريسبكت.  
+        نقدم تجربة رول بلاي واقعية قائمة على الاحترام، الاحتراف، وصناعة قصة حقيقية لكل لاعب.
+        هنا لا تلعب شخصية… بل تعيشها بكل تفاصيلها.
+        </p>
+    </div>
+</section>
+
+<section>
+    <div class="title">لماذا ريسبكت؟</div>
+    <div class="box">
+        <p>
+        • إدارة نشيطة ومتواجدة دائمًا<br>
+        • قوانين واضحة تطبق على الجميع<br>
+        • شرطة احترافية وأنظمة متطورة<br>
+        • عصابات منظمة ورول بلاي نظيف<br>
+        • فعاليات مستمرة وتجربة ممتعة
+        </p>
+    </div>
+</section>
+
+<section>
+    <div class="title">التقديمات</div>
+    <div class="box buttons">
+
+        <a href="#" target="_blank">🔰 تقديم الإدارة</a>
+
+        <a href="#" target="_blank">🚓 تقديم الشرطة</a>
+
+        <a href="#" target="_blank">🩸 تقديم العصابات</a>
+
+    </div>
+</section>
+
+<footer>
+    جميع الحقوق محفوظة © Respect RP S2
+</footer>
+
+</body>
+</html>
