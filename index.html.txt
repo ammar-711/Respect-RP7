@@ -1,0 +1,74 @@
+index.html
+
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Respect RP</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Tahoma, Arial;
+    background: #ffffff;
+    text-align: center;
+}
+
+.header {
+    padding: 25px;
+    font-size: 30px;
+    font-weight: bold;
+    color: #6a0dad;
+}
+
+.btn {
+    display: block;
+    margin: 15px auto;
+    padding: 18px;
+    width: 85%;
+    max-width: 320px;
+    background: #6a0dad;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 14px;
+    font-size: 18px;
+}
+
+.about {
+    padding: 30px 20px;
+    color: #333;
+    line-height: 1.8;
+}
+</style>
+</head>
+
+<body>
+
+<div class="header">Respect RP</div>
+
+<a class="btn" href="https://discord.gg/ArUQd4XG" target="_blank">
+تفعيل ريسبكت
+</a>
+
+<a class="btn" href="admin.html">
+تسجيل دخول النظام
+</a>
+
+<div class="about">
+<p>
+سيرفر ريسبكت هو سيرفر خاص بالحياة الواقعية في قراند السوني،
+يقدّم تجربة لعب تعتمد على الواقعية والتنظيم والتفاعل الحقيقي بين اللاعبين.
+</p>
+
+<p>
+نسعى في Respect RP إلى توفير بيئة ممتعة وآمنة،
+بإدارة متعاونة وقوانين واضحة،
+حيث يكون الاحترام أساس كل شيء.
+</p>
+
+<p><strong>شعارنا: الاحترام قبل كل شيء.</strong></p>
+</div>
+
+</body>
+</html>
